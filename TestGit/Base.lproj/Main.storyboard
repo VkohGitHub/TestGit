@@ -32,7 +32,15 @@
                             <outlet property="delegate" destination="oej-6K-Qpc" id="eYe-cl-cpJ"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Root View Controller" id="Yye-gJ-ewf"/>
+                    <navigationItem key="navigationItem" title="Root View Controller" id="Yye-gJ-ewf">
+                        <barButtonItem key="rightBarButtonItem" style="plain" id="0s4-N2-rr9">
+                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="ctz-dN-ii3">
+                                <rect key="frame" x="-23" y="-15" width="92" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                            </button>
+                        </barButtonItem>
+                    </navigationItem>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Jnn-ra-ABb" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
