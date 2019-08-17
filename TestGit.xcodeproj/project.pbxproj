@@ -13,6 +13,7 @@
 		013A45272307A69500CC571F /* TestGit.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 013A45252307A69500CC571F /* TestGit.xcdatamodeld */; };
 		013A45292307A69900CC571F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 013A45282307A69900CC571F /* Assets.xcassets */; };
 		013A452C2307A69900CC571F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 013A452A2307A69900CC571F /* LaunchScreen.storyboard */; };
+		013A45342307A71900CC571F /* TestTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013A45332307A71900CC571F /* TestTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		013A45282307A69900CC571F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		013A452B2307A69900CC571F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		013A452D2307A69900CC571F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		013A45332307A71900CC571F /* TestTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				013A451E2307A69500CC571F /* AppDelegate.swift */,
 				013A45202307A69500CC571F /* ViewController.swift */,
 				013A45222307A69500CC571F /* Main.storyboard */,
+				013A45332307A71900CC571F /* TestTableViewController.swift */,
 				013A45282307A69900CC571F /* Assets.xcassets */,
 				013A452A2307A69900CC571F /* LaunchScreen.storyboard */,
 				013A452D2307A69900CC571F /* Info.plist */,
@@ -141,6 +144,7 @@
 				013A45212307A69500CC571F /* ViewController.swift in Sources */,
 				013A451F2307A69500CC571F /* AppDelegate.swift in Sources */,
 				013A45272307A69500CC571F /* TestGit.xcdatamodeld in Sources */,
+				013A45342307A71900CC571F /* TestTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
